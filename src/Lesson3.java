@@ -112,10 +112,6 @@ public static void Array() {
     System.out.println(max);
     System.out.println(min);
 }
-
-
-
-
 }
 
 
